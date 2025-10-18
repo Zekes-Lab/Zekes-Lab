@@ -3,7 +3,7 @@
 <h2>👨‍💻Data Analysis Projects:</h2>
 
 - <b>Loan Approval insight: Borrower Profiles and Financial Behaviour</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Loan Approval insight: Borrower Profiles and Financial Behaviour](https://github.com/Zekes-Lab/Loan-Approval-insight-Borrower-Profiles-and-Financial-Behaviour-.git)
 
 
 <h2>🚀 Data Science Journey</h2>
